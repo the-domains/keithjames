@@ -1,19 +1,4 @@
-name: Keith James
-favicon: null
-layout_spectrum: 0.03355783806182444
 typography_spectrum: 0.08430698490701616
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -25,4 +10,20 @@ color:
   lightness: 0.8378114320803434
   saturation: 0.5241343937814236
   rhythmicContrast: 0.18884244025684893
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.03355783806182444
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Keith James
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Lorem ipsum
 purpose: []
